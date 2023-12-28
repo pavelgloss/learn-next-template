@@ -29,7 +29,7 @@ export default function Home() {
       </div>
 
       <h1 className="text-6xl font-bold text-center mb-16">
-        HELLO PAVEL, <br />
+        HELLO PAVEL 222, <br />
         vercel analytics is enabled
       </h1>
 
